@@ -10,5 +10,9 @@ alter table users add constraint age check(age>=18);
 
 alter table users drop constraint age; 
 
+alter table users rename to customers;
+
+alter table customers rename to users;
+
 
 
