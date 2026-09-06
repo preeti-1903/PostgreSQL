@@ -1,0 +1,7 @@
+-- -- Types of Functions in SQL.
+-- 1. -- Aggregate Functions.
+-- 2. -- String Functions.
+-- 3. -- Date and Time Functions.
+-- 4. -- Mathematical Functions.
+-- 5. -- Conditional Functions.
+-- 6. -- Window/Analytical Functions.
